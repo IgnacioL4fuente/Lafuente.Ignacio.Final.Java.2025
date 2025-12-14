@@ -17,4 +17,9 @@ Todas estas entidades pueden ser:
 - Filtradas (por distintos criterios)
 - Ordenadas (por distintos criterios)
 - Guardadas y cargadas en formatos (`.csv`, `.json`, `.dat`, `.txt`)
-Interfaz desarrollada mediante el uso de JavaFX y SceneBuilder
+    
+La interfaz grafica fue desarrollada mediante el uso de JavaFX y SceneBuilder
+
+--
+
+### Capturas de pantalla
