@@ -20,6 +20,6 @@ Todas estas entidades pueden ser:
     
 La interfaz grafica fue desarrollada mediante el uso de JavaFX y SceneBuilder
 
---
+---
 
-### Capturas de pantalla
+### Imagen del diagrama `UML`
