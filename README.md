@@ -24,5 +24,5 @@ La interfaz grafica fue desarrollada mediante el uso de JavaFX y SceneBuilder
 
 ### Imagen del diagrama `UML`
 
-![Diagrama UML](imagenes/FinalUml.png)
+
 
