@@ -1,0 +1,8 @@
+========================================
+LISTADO DE DOCTORES FILTRADOS
+Fecha: 2025-12-14T14:26:33.684150200
+Cantidad de resultados: 1
+========================================
+
+- Doctor - Dni:gfdgfd - Apellido:gdfg - Nombre:gdgf - Edad:56 - Especialidad:TRAUMATOLOGIA - Años de experiencia:34
+
