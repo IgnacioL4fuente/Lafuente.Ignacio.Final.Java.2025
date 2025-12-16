@@ -32,10 +32,19 @@ La interfaz grafica fue desarrollada mediante el uso de JavaFX y SceneBuilder
 
 
 
-### Imagen del diagrama `UML`
+#### Imagen del diagrama `UML`
 
 ![Diagrama UML](imagenes/FinalUml(4).png)
 
+---
 
+##### Archivos Generados
+
+La aplicación permite guardar y cargar información en distintos formatos. En la carpeta /archivos se incluyen archivos reales generados por la aplicación:
+
+- CSV: `pacientes.csv`, `doctores.csv`, `especialistas.csv`
+- JSON: `pacientes.json`, `doctores.json`, `especialistas.json`
+- DAT: `PacientesSerializados.dat`, `DoctorezSerializados.dat`, `EspecialistasSerializados.dat`
+- TXT: `pacientes_filtrados.txt`, `doctores_filtrados.txt`, `especialistas_filtrados.txt`
 
 
