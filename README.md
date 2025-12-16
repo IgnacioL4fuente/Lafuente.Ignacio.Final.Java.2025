@@ -20,8 +20,13 @@ Todas estas entidades pueden ser:
     
 La interfaz grafica fue desarrollada mediante el uso de JavaFX y SceneBuilder
 
+### Imagenes de la interfaz gráfica
 
-![Imagenes de la interfaz gráfica](imagenes/demostracion1.png)
+![interfaz](imagenes/demostracion1.png)
+
+![interfaz](imagenes/demostracion2.png)
+
+![interfaz](imagenes/demostracion3.png)
 
 ---
 
