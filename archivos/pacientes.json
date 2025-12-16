@@ -1,0 +1,6 @@
+[
+  {"diagnostico":"Gripe","obraSocial":"PAMI","dni":"1234","nombre":"Pepe","apellido":"Rodriguez","edad":7},
+  {"diagnostico":"Diabetes tipo 2","obraSocial":"OSDE","dni":"1256","nombre":"Ana","apellido":"Fernandez","edad":35},
+  {"diagnostico":"Hipertension","obraSocial":"IOMA","dni":"1278","nombre":"Marcos","apellido":"Gomez","edad":28},
+  {"diagnostico":"Gripe","obraSocial":"IOMA","dni":"34424","nombre":"Lucas","apellido":"Rodriguez","edad":23}
+]

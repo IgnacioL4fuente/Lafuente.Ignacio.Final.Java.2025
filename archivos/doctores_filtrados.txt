@@ -1,0 +1,9 @@
+========================================
+LISTADO DE DOCTORES FILTRADOS
+Fecha: 2025-12-16T12:27:09.598941600
+Cantidad de resultados: 1
+Criterio: NOMBRE = Laura
+========================================
+
+- Doctor - Dni:2378 - Apellido:Gonzales - Nombre:Laura - Edad:45 - Especialidad:CARDIOLOGIA - Años de experiencia:20
+

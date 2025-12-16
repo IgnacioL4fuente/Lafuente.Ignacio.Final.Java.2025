@@ -1,0 +1,9 @@
+========================================
+LISTADO DE ESPECIALISTAS FILTRADOS
+Fecha: 2025-12-16T12:27:11.873824800
+Cantidad de resultados: 1
+Criterio: DNI = 3478
+========================================
+
+- Especialista - Dni:3478 - Apellido:Ramirez - Nombre:Diego - Edad:42 - Subespecialidad:Cirugia Vascular - Hospital:ARGERICH
+

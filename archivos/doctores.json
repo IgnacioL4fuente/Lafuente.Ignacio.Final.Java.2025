@@ -1,0 +1,5 @@
+[
+  {"especialidad":"DERMATOLOGIA","aniosExperiencia":12,"dni":"2345","nombre":"ramon","apellido":"Gonzales","edad":45},
+  {"especialidad":"CARDIOLOGIA","aniosExperiencia":20,"dni":"2378","nombre":"Laura","apellido":"Gonzales","edad":45},
+  {"especialidad":"PEDIATRIA","aniosExperiencia":14,"dni":"2399","nombre":"Lucia","apellido":"Herrera","edad":39}
+]

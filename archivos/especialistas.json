@@ -1,0 +1,5 @@
+[
+  {"subEspecialidad":"Neurocirugia","hospital":"GARRAHAN","dni":"3456","nombre":"Fernando","apellido":"Sanchez","edad":60},
+  {"subEspecialidad":"Cirugia Vascular","hospital":"ARGERICH","dni":"3478","nombre":"Diego","apellido":"Ramirez","edad":42},
+  {"subEspecialidad":"Endocrinologia","hospital":"SAN_MARTIN","dni":"3490","nombre":"Sofia","apellido":"Alvarez","edad":38}
+]
