@@ -41,7 +41,7 @@ La aplicación permite guardar y cargar información en distintos formatos. En l
 
 #### Imagen del diagrama `UML`
 
-![Diagrama UML](imagenes/FinalUml(5).png)
+![Diagrama UML](imagenes/FinalUml(6).png)
 
 ---
 
