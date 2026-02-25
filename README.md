@@ -28,7 +28,7 @@ La interfaz grafica fue desarrollada mediante el uso de JavaFX y SceneBuilder
 
 ![interfaz](imagenes/d3.png)
 
-![interfaz](imagenes/d4.png)
+![interfaz](imagenes/demostracion4.png)
 
 ---
 
